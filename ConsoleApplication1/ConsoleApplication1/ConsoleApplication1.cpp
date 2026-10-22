@@ -7,6 +7,9 @@ int main()
 {
     std::cout << "Hello World!\n";
 	std::cout << "This is a test program.\n";
+
+	std::cout << "This is new branch\n";
+	std::cout << "Last line on branch\n";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
